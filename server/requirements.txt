@@ -1,0 +1,5 @@
+pafy>=0.5.2
+Flask>=0.12
+youtube-dl>=2016.6.26
+mutagen>=1.36
+pyOpenSSL>=16.2.0
